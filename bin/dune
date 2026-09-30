@@ -1,0 +1,8 @@
+(executable
+ (public_name cis_194)
+ (name main)
+ (libraries cis_194))
+
+(executable
+ (public_name homework1)
+ (modules homework1))
