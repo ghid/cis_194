@@ -6,3 +6,7 @@
 (executable
  (public_name homework1)
  (modules homework1))
+
+(executable
+ (public_name homework2)
+ (modules homework2))
