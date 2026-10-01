@@ -1,3 +1,5 @@
+(* tags: #function #composition *)
+
 (* Exercise 1 *)
 
 let to_digits (n : int) : int list =
