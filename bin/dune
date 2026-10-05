@@ -10,3 +10,7 @@
 (executable
  (public_name homework2)
  (modules homework2))
+
+(executable
+ (public_name homework3)
+ (modules homework3))

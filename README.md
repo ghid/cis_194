@@ -6,4 +6,5 @@ See also:
 - [Functional Programming in Modern C++ | Part 1/12](https://youtu.be/WoWrKpk94Jw)
 - [Functional Programming in Modern C++ | Part 2.1/12](https://youtu.be/8RCzvkkDQjk)
 - [Functional Programming in Modern C++ | Part 2.2/12](https://youtu.be/6O4vjJlFHSc)
+- [Functional Programming in Modern C++ | Part 3/12](https://youtu.be/HIz_umO9UDw)
 
