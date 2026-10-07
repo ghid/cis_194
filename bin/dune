@@ -14,3 +14,7 @@
 (executable
  (public_name homework3)
  (modules homework3))
+
+(executable
+ (public_name homework4)
+ (modules homework4))
